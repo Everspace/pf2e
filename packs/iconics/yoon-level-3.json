@@ -523,7 +523,7 @@
                         "uuid": "Compendium.pf2e.classfeatures.Item.Kinetic Aura"
                     },
                     "NXHnk": {
-                        "img": "systems/pf2e/icons/spells/abundant-step.webp",
+                        "img": "systems/pf2e/icon/core-edits/skills/targeting/target-glowing-green.webp",
                         "level": 1,
                         "name": "Kinetic Gate",
                         "uuid": "Compendium.pf2e.classfeatures.Item.Kinetic Gate"
@@ -607,7 +607,7 @@
                         "uuid": "Compendium.pf2e.classfeatures.Item.Extract Element"
                     },
                     "udfhZ": {
-                        "img": "systems/pf2e/icons/spells/air-walk.webp",
+                        "img": "icons/magic/water/wave-water-teal.webp",
                         "level": 7,
                         "name": "Kinetic Expertise",
                         "uuid": "Compendium.pf2e.classfeatures.Item.Kinetic Expertise"
@@ -774,7 +774,7 @@
                     }
                 }
             },
-            "img": "systems/pf2e/icons/spells/abundant-step.webp",
+            "img": "systems/pf2e/icon/core-edits/skills/targeting/target-glowing-green.webp",
             "name": "Kinetic Gate",
             "sort": 100,
             "system": {

@@ -521,7 +521,7 @@
                     "sourceId": "Compendium.pf2e.spells-srd.Item.W69zswpj0Trdy5rj"
                 }
             },
-            "img": "systems/pf2e/icons/spells/air-bubble.webp",
+            "img": "icons/magic/water/orb-ice-opaque.webp",
             "name": "Air Bubble (At Will)",
             "sort": 900000,
             "system": {

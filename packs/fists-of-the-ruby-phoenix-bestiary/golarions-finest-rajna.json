@@ -50,7 +50,7 @@
                     "sourceId": "Compendium.pf2e.spells-srd.Item.Az3PmWnlWSb5ELX9"
                 }
             },
-            "img": "systems/pf2e/icons/spells/abundant-step.webp",
+            "img": "systems/pf2e/icon/core-edits/skills/targeting/target-glowing-green.webp",
             "name": "Abundant Step",
             "sort": 200000,
             "system": {
